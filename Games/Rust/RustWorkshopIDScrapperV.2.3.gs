@@ -1,4 +1,5 @@
-// This Dosent Sort by Item but still Scraps them into a sheet
+// This Dosent Sort by Item but still Scraps them into a sheet 
+// It also has the beginnings of the item Sorting but it dosent work
 
 function scrapeRustWorkshopDetails() {
   const mainUrl = 'https://steamcommunity.com/workshop/browse/?appid=252490&browsesort=accepted&section=mtxitems&browsefilter=accepted&p=1';
